@@ -5,13 +5,13 @@ image_thumbs_loc: "/images/fulls"
 #google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Anime by FA"
-subtitle: "See the world through my eyes!!!!!"
+title: "Anime"
+subtitle: ""
 author: "Fallen Angel"
 header:
- title: "Photography"
+ title: "Anime"
  subtitle: "by FA"
-footer:
+footer: "Wallpapers for Anime lover's"
  name: "Hey there, my name is FA"
  bio: "I am a developer and a FA from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
 web_design: "FA"
